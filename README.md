@@ -22,4 +22,6 @@ Amazon DynamoDb --> dynamoDb.tf
 
 The frontend of this project is store under source folder. There is index.html,styles.css and scripts.js
 
+And dont forget to replace your API endpoint in API Gateway in script.js
+
 
